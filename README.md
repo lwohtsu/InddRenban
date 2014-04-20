@@ -7,6 +7,8 @@ Renbun(Auto Numbering) for InDesign CS4+
 #About
 特定の文字スタイルを設定した数値に連番を振ります。
 
+「文字スタイルが設定された1桁以上の数値」を検索して連番に書き換える仕組みなので、数値以外のものに文字スタイルを設定しても無視される点に注意してください。
+
 
 ![Dialog](img/InddRenban.png)
 
