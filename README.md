@@ -15,6 +15,8 @@ Renbun(Auto Numbering) for InDesign CS4+
 #Install
 InDesign CS4以降のScripts PanelフォルダにLWRenban.jsxを保存します。
 
+※「Scripts Panel」フォルダはInDesignの〈Script〉パネルで「Users」を右クリック→［Finder］で表示できます。
+
 ［ウィンドウ］→［自動化］→［スクリプト］を選択して実行します。
 
 
