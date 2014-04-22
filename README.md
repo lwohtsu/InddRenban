@@ -12,6 +12,8 @@ Renbun(Auto Numbering) for InDesign CS4+
 
 ![Dialog](img/InddRenban.png)
 
+※追記：セル内の数値も行・列どおりに並べ替えるよう改良しました。
+
 #Install
 InDesign CS4以降のScripts PanelフォルダにLWRenban.jsxを保存します。
 
