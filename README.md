@@ -14,6 +14,8 @@ Renbun(Auto Numbering) for InDesign CS4+
 
 ※追記：セル内の数値も行・列どおりに並べ替えるよう改良しました。
 
+※追記2：ファイル名をスーパー連番.jsxに改め、セクションタイトルで連番を1から振り直しできるようにしました。
+
 #Install
 InDesign CS4以降のScripts PanelフォルダにLWRenban.jsxを保存します。
 
