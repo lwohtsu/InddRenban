@@ -44,7 +44,6 @@ function myDisplayDialog(){
 	with(myDialog.dialogColumns.add()){
 		//説明ラベル
 		staticTexts.add({staticLabel:"特定の文字スタイルを設定した数字に対して連番を挿入します"});
-		staticTexts.add({staticLabel:"数値がテキストフレームに入っていないとうまくY座標を取れないかも"});
 		//パネルを追加
 		with(borderPanels.add()){
 			//ラベル
