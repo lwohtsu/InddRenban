@@ -18,6 +18,10 @@ Renbun(Auto Numbering) for InDesign CS4+
 
 ※追加3：文字の位置を直接確認する方法が見つかったので大幅に変更しました。段組み以外なら問題なく連番振れるようになりました。
 
+※追加4：セクションタイトルでの振り直し部分にバグがあったので変更。
+
+※追加5：連番の初期値を設定可能にしました。
+
 #Install
 InDesign CS4以降のScripts PanelフォルダにLWRenban.jsxを保存します。
 
